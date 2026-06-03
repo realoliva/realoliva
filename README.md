@@ -5,15 +5,15 @@ Hi there 👋
 
 🔍 关于我
 
-- 🌱 我目前正在学习：`[例如：Rust / Next.js / 机器学习]`
-- 💼 我正在做：`[例如个人网站 / 团队项目]`
-- 💬 问我关于：`[技术领域，如 JavaScript、Python、React]`
-- 📫 联系我：`[你的邮箱]`
-- ⚡ 有趣的事实：`[例如：我解决 bug 前会先散步三分钟]`
+- 🌱 我目前正在学习：[python/java/cursor/]
+- 💼 我正在做：[个人网站]
+- 💬 问我关于：[Java、Python]
+- 📫 联系我：[2635989464@qq.com]
+- ⚡ 爱好：[音乐/写代码]
 
 ---
 
-## 🛠️ 技术栈
+🛠️ 技术栈
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
