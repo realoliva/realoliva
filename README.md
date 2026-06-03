@@ -1,21 +1,37 @@
-Hi there 👋
-👋 你好，我是Alex
+<div align="center">
+<!-- 1.顶部动态打字动画 -->
 
-🎯全栈开发者| 🚀开源爱好者| ☕ 咖啡驱动型程序员
+</div>
 
-🔍 关于我
+### 🎯 关于我
+- 🌱 目前深耕：Python｜SQL｜数据清洗｜HTML/CSS
+- 💼 正在落地：**个人在线简历网页项目**（👉[https://realoliva.github.io](https://realoliva.github.io)）
+- 💬 随时交流：Python、大数据入门、前端基础
+- 📮 联系方式：2635989464@qq.com
+- ⚡ 日常爱好：听歌 + 敲代码 + 数据分析练习
 
-- 🌱 我目前正在学习：[python/java/cursor/]
-- 💼 我正在做：[个人网站]
-- 💬 问我关于：[Java、Python]
-- 📫 联系我：[2635989464@qq.com]
-- ⚡ 爱好：[音乐/写代码]
-## 📫 找到我
+### 🛠️ 技能栈图标（自动美化排版）
+<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</div>
 
-[![Twitter](https://img.shields.io/badge/Twitter-@你的推特-1DA1F2?logo=twitter)](https://twitter.com/你的推特)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-你的名字-0A66C2?logo=linkedin)](https://linkedin.com/in/你的ID)
-[![个人博客](https://img.shields.io/badge/博客-你的博客地址-FF5722?logo=blogger)](https://你的博客.com)
+### 📊 GitHub动态数据卡片（自动统计你的提交、仓库，实时更新）
+<div align="center">
+<!-- 个人数据统计 -->
+<img src="https://github-readme-stats.vercel.app/api?username=realoliva&theme=tokyonight&hide_border=true&show_icons=true"/>
+<!-- 常用编程语言占比 -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realoliva&theme=tokyonight&hide_border=true&layout=compact"/>
+</div>
 
----
+### 📈 31天动态贡献折线图（自动刷新你的提交记录）
+<div align="center">
 
-⭐️ 欢迎访问我的 GitHub，一起探索代码的世界！
+</div>
+
+### 📫 社交&直达链接
+> 简历官网：[realoliva.github.io](https://realoliva.github.io) | 邮箱：2635989464@qq.com
+
+⭐ 感谢到访，一起交流大数据与编程！
